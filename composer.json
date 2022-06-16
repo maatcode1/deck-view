@@ -1,0 +1,17 @@
+{
+  "name": "deck/deck-view",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maatcode",
+      "email": "maatcode@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Deck\\View\\": "src"
+    }
+  }
+}
